@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - DamageObject
+  - PlayerItemCollider
+  - Void
+  - Enemy
+  - Fireball
+  - Walls
+  - Stalactite
+  - Healthbar
+  - BossSpell
+  - BossHealth
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Trigger
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background-1
+    uniqueID: 3469927879
+    locked: 0
+  - name: Background
+    uniqueID: 393683853
+    locked: 0
+  - name: Montagne
+    uniqueID: 2452617729
+    locked: 0
+  - name: Stalactite
+    uniqueID: 1856731641
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Oggetti
+    uniqueID: 750641205
+    locked: 0
+  - name: Personaggi
+    uniqueID: 3485103393
+    locked: 0
+  - name: UI
+    uniqueID: 797490959
+    locked: 0
